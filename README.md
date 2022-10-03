@@ -16,8 +16,10 @@
 
 ## Overview
 
-![screenshot](https://github.com/Damyanmd/goal_api/blob/main/img/Capture.PNG)
-
+<div align="center">
+   <img src="https://github.com/Damyanmd/goal_api/blob/main/img/Capture.PNG">
+ </div>
+ 
 ### Built With
 
 - JSX
