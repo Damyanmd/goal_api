@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://fantastic-semolina-2c2886.netlify.app/">
       Demo for Goal creator
     </a>
   </h3>
